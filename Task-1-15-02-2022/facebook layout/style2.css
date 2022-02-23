@@ -1,0 +1,32 @@
+#fb-2{
+    background-color: #f0f2f5;
+    padding-top: 106px;
+}
+h3{
+    color: #1877f2; 
+    text-align: center; 
+    font-weight: bolder; 
+    top: 20px;
+}
+.card-body{
+    width: 25rem;
+    left: 495px;
+    top: 9rem;
+    background-color: white;
+    box-shadow: black;
+    height: 18rem;
+    position: absolute;
+    box-shadow:inset 5px 5px 12px #ffffff,
+                        5px 5px 12px rgba(0,0,0,.16);
+    border-radius: 12px;
+}
+.form-text p{
+    color: red;
+}
+.btn{
+    width: 23rem; 
+    float: center;
+}
+a{
+    color: red;
+}
