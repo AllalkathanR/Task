@@ -1,0 +1,22 @@
+.container-fluid{
+    background-color: #f2f2f2;
+}
+#login{
+    width: 100%
+}
+#signup-form{
+    width: 50%;
+}
+.form-text span{
+    color: blue;
+}
+.card-body p h4 label{
+    color: black;
+}
+h4{
+    color: blue;
+}
+#login{
+    margin-left: 173px;
+    margin-right: 1px;
+}
